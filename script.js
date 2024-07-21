@@ -19,7 +19,7 @@ const pages = [
     {
         header: "capas no soy el mejor fotografo asi me amas hehe",
         image: "img/imagen6.png",
-        text: ["una de las primeras veces que te sorprendi.", "y se que ya no lo hago mucho pero seguira pasando amor ."],
+        text: ["una de las primeras veces que te sorprendi.", "y se que ya no lo hago mucho pero aun asi lo volvere a hacer amor ntp ."],
         gif: "img/sorpresa.gif",
         className: "page3"
     },
